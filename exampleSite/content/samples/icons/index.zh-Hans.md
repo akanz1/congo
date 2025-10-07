@@ -31,6 +31,7 @@ Congo内置了对多个[FontAwesome 6](https://fontawesome.com/icons)图标的�
 | coffee               | {{< icon coffee >}}               |
 | comment              | {{< icon comment >}}              |
 | dev                  | {{< icon dev >}}                  |
+| docker                | {{< icon docker >}}                |
 | dribbble             | {{< icon dribbble >}}             |
 | edit                 | {{< icon edit >}}                 |
 | email                | {{< icon email >}}                |
@@ -66,6 +67,7 @@ Congo内置了对多个[FontAwesome 6](https://fontawesome.com/icons)图标的�
 | phone                | {{< icon phone >}}                |
 | pinterest            | {{< icon pinterest >}}            |
 | podcast              | {{< icon podcast >}}              |
+| python                | {{< icon python >}}                |
 | reddit               | {{< icon reddit >}}               |
 | researchgate         | {{< icon researchgate >}}         |
 | rss                  | {{< icon rss >}}                  |

@@ -31,6 +31,7 @@ Die vollständige Liste der integrierten Icons und ihre entsprechenden Namen fin
 | coffee               | {{< icon coffee >}}               |
 | comment              | {{< icon comment >}}              |
 | dev                  | {{< icon dev >}}                  |
+| docker                | {{< icon docker >}}                |
 | dribbble             | {{< icon dribbble >}}             |
 | edit                 | {{< icon edit >}}                 |
 | email                | {{< icon email >}}                |
@@ -66,6 +67,7 @@ Die vollständige Liste der integrierten Icons und ihre entsprechenden Namen fin
 | phone                | {{< icon phone >}}                |
 | pinterest            | {{< icon pinterest >}}            |
 | podcast              | {{< icon podcast >}}              |
+| python                | {{< icon python >}}                |
 | reddit               | {{< icon reddit >}}               |
 | researchgate         | {{< icon researchgate >}}         |
 | rss                  | {{< icon rss >}}                  |
